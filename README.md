@@ -37,7 +37,10 @@ This repository contains two files other than readme file
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/93859458/152402949-0926b15d-818c-475a-8998-0c3e06d3e6c2.png)
+![image](https://user-images.githubusercontent.com/93859458/152403104-e6d5bacb-35f2-462a-87de-f512065e2f54.png)
+![image](https://user-images.githubusercontent.com/93859458/152403213-837a7035-3a02-472a-9b43-1dd3981bcebd.png)
+![image](https://user-images.githubusercontent.com/93859458/152403346-e68ecefe-a1e4-41b0-b923-3b3efd164402.png)
 
 
 ## Business Summary
