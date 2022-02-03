@@ -26,7 +26,7 @@ We have used Python 3 to its following packages:
 * Pandas
 * Matplotlib
 * Seaborn
-* Sklearn
+* plotly
 
 
 ## Files
