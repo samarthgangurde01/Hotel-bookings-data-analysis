@@ -51,6 +51,13 @@ From our EDA, we have observed that the top 5 most important features in the dat
 * Arrival Day of the Month
 * Total Number of Special Requests
 
+## Power Bi Report
+Power BI is an interactive data visualization software developed by Microsoft with primary focus on business intelligence It is part of the Microsoft Power Platform. Power BI is a collection of software services, apps, and connectors that work together to turn unrelated sources of data into coherent, visually immersive, and interactive insights.
+power BI provides cloud-based BI (business intelligence) services, known as "Power BI Services", along with a desktop based interface, called "Power BI Desktop". It offers data warehouse capabilities including data preparation, data discovery and interactive dashboards
+
+<img width="579" alt="2022-02-14 (2)" src="https://user-images.githubusercontent.com/93859458/153815617-01060ab1-7aea-4c77-b096-0fa35060543c.png">
+
+Report Link:-file:///C:/Users/USER/AppData/Local/Temp/Power%20BI%20Desktop/print-job-94aecd8e-75ef-4d59-aac1-87d93892bf25/Bireport.pdf
 
 ## Feedback
 If you have any feedback, please reach out to us at samarthgangurde01@gmail.com
