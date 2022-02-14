@@ -20,9 +20,11 @@
 ## Dataset Information
 This data set contains booking information for a city hotel and a resort hotel and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has removed from the data.
 
+Dataset Link:-https://raw.githubusercontent.com/samarthgangurde01/hotel-bookings-data-analysis/main/Hotel%20Bookings.csv
+
 
 ## Tools and Libraries Used
-We have used Python 3 to its following packages:
+We have used Python 3 and its following packages:
 * Pandas
 * Matplotlib
 * Seaborn
